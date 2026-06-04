@@ -13579,5 +13579,14 @@
       "lat": 21.038697
     },
     "country": "Vietnam"
+  },
+  {
+    "name": "Masaryk University",
+    "url": "https://ezproxy.muni.cz/login?url=$@",
+    "location": {
+      "lng": 16.605292,
+      "lat": 49.198575
+    },
+    "country": "Czechia"
   }
 ]
